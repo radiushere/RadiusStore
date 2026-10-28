@@ -3,33 +3,6 @@
 - **Live Deployment**: [https://radiushere.github.io/RadiusStore/](https://radiushere.github.io/RadiusStore/)
 - **GitHub Repository**: [https://github.com/radiushere/RadiusStore](https://github.com/radiushere/RadiusStore)
 
-RadiusStore is a React-based single-page application designed for managing inventory and stock operations. It combines modern functional component paradigms and React Hooks alongside traditional class component lifecycles for audit logging.
-
-## Project Directory Structure
-
-```plaintext
-src/
-├── components/
-│   ├── class/
-│   │   └── AuditLogger.jsx
-│   └── functional/
-│       ├── CardWrapper.jsx
-│       ├── Header.jsx
-│       ├── InventoryMetrics.jsx
-│       ├── ProductCard.jsx
-│       ├── ProductForm.jsx
-│       ├── ProductList.jsx
-│       └── ThemeToggle.jsx
-├── context/
-│   └── ThemeContext.jsx
-├── hooks/
-│   └── useLocalStorage.js
-├── App.css
-├── App.jsx
-├── index.css
-└── main.jsx
-```
-
 ## Features & Implementation
 
 - **Component-Based Architecture**: Reusable functional components (`Header`, `InventoryMetrics`, `ProductForm`, `ProductList`, `ProductCard`, `ThemeToggle`) and class component (`AuditLogger`).
