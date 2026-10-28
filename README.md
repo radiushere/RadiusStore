@@ -1,5 +1,8 @@
 # RadiusStore - E-Commerce Inventory & Stock Management Dashboard
 
+- **Live Deployment**: [https://radiushere.github.io/RadiusStore/](https://radiushere.github.io/RadiusStore/)
+- **GitHub Repository**: [https://github.com/radiushere/RadiusStore](https://github.com/radiushere/RadiusStore)
+
 RadiusStore is a React-based single-page application designed for managing inventory and stock operations. It combines modern functional component paradigms and React Hooks alongside traditional class component lifecycles for audit logging.
 
 ## Project Directory Structure
